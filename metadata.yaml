@@ -1,0 +1,42 @@
+_repo: The-Next-Logical-Step_28063
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling
+    - Schelling, George L.
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bova, Ben
+    alias: Bova, Benjamin William
+    birthdate: 1932
+    gutenberg_agent_id: '33114'
+    url: http://www.gutenberg.org/2009/agents/33114
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Bova
+description: The eyes have it. "I rushed from the garage and back inside the warm
+  house, as if the accursed things were following me.... I had enough of the thing.
+  I want to hear no more about it. Let them come on. Let them invade Earth. I don't
+  want to get mixed up in it"--excerpt.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Next Logical Step
+url: http://www.gutenberg.org/ebooks/28063
